@@ -1,0 +1,17 @@
+# Ignore dependencies and build files
+node_modules/
+.next/
+dist/
+output.css
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Environment files
+.env
+.env.local
+.DS_Store
+
+# TypeScript build files
+.next-env.d.ts

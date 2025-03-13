@@ -1,0 +1,31 @@
+2025-03-12 17:20:21,154 - __main__ - INFO - Successfully initialized all NLP models
+2025-03-12 17:20:21,577 - __main__ - INFO - Successfully fitted models on training data
+2025-03-12 21:31:05,197 - __main__ - INFO - Successfully initialized all NLP models
+2025-03-12 21:31:05,738 - __main__ - INFO - Successfully fitted models on training data
+2025-03-12 21:32:21,627 - __main__ - INFO - Successfully generated risk assessment: Aggressive
+2025-03-12 21:36:57,119 - __main__ - ERROR - Portfolio optimization failed: Last 2 dimensions of the array must be square
+2025-03-12 21:36:57,120 - __main__ - ERROR - Error in portfolio optimization: Last 2 dimensions of the array must be square
+2025-03-12 21:49:22,342 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-12 21:49:34,978 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-12 21:49:42,681 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-12 21:49:47,433 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-12 21:49:51,344 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-12 21:49:54,231 - __main__ - INFO - Successfully generated risk assessment: Moderate
+2025-03-12 21:49:57,761 - __main__ - INFO - Successfully generated risk assessment: Moderate
+2025-03-13 15:52:36,562 - __main__ - INFO - Successfully initialized all NLP models
+2025-03-13 15:52:36,710 - __main__ - INFO - Successfully fitted models on training data
+2025-03-13 15:56:04,122 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 15:57:21,635 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:02:19,039 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:05:24,159 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:10:45,736 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:11:02,413 - __main__ - INFO - Successfully generated risk assessment: Moderate
+2025-03-13 16:11:22,704 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:11:43,451 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:11:50,956 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:11:54,950 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:11:57,926 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 16:12:00,992 - __main__ - INFO - Successfully generated risk assessment: Moderate
+2025-03-13 16:22:20,403 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 17:05:09,436 - __main__ - INFO - Successfully generated risk assessment: Conservative
+2025-03-13 17:22:04,520 - __main__ - INFO - Successfully generated risk assessment: Aggressive
